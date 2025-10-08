@@ -10,9 +10,8 @@ const DashboardPage = () => {
       <p>Welcome, {user?.name} ({user?.role})</p>
       <button onClick={logout}>Logout</button>
       <ul>
-        <li><a href="/patients">Patients</a></li>
         <li><a href="/appointments">Appointments</a></li>
-        <li><a href="/doctors">Doctors</a></li>
+        {user?.role === 'admin' && <li><a href="/users">Users</a></li>}
       </ul>
     </div>
   );

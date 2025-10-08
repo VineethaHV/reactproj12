@@ -1,12 +1,12 @@
-# Patient Management System
+# Appointment Scheduling System
 
-A production-ready, full-stack Patient Management System.
+A production-ready, full-stack Appointment Scheduling System.
 
-## Stack
+## Technology Stack
 
 - **Frontend:** React (Create React App)
 - **Backend:** Node.js (Express)
-- **Database:** PostgreSQL
+- **Database:** MongoDB
 - **Authentication:** JWT
 
 ## Structure

@@ -1,9 +1,9 @@
-# Backend - Patient Management System
+# Backend - Appointment Scheduling System
 
 ## Prerequisites
 
 - Node.js >= 18.x
-- PostgreSQL
+- MongoDB
 
 ## Setup
 

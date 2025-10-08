@@ -1,4 +1,4 @@
-# Frontend - Patient Management System
+# Frontend - Appointment Scheduling System
 
 ## Prerequisites
 
